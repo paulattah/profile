@@ -2,7 +2,7 @@
  <h1> 🤓 Hey! Nice to see you.</h1>
 
 
-- 📝 I regularly write articles on  [LinkedIn](linkedin.com/in/attah-paul-8a1678159/)
+- 📝 I regularly write articles on  [LinkedIn](linkedin.com/in/attah-paul-8a1678159)
 
 - 💬 Ask me about **DevOps, AWS, Django, Backend-Development, and Web/App Development**
 
